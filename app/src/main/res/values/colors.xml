@@ -5,4 +5,8 @@
     <color name="red">#FFFF0000</color>
     <color name="green">#FF00FF00</color>
     <color name="blue">#FF0000FF</color>
+    <color name="color1">#6F4E37</color>
+    <color name="color2">#A67B5B</color>
+    <color name="color3">#ECB176</color>
+    <color name="color4">#FED8B1</color>
 </resources>

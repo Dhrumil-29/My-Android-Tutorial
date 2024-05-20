@@ -9,7 +9,7 @@
         android:id="@+id/HomeFragment"
         android:name="com.spiderverse.myandroidtutorial.ui.HomeFragment"
         android:label="@string/home_fragment_label"
-        tools:layout="@layout/fragment_home">
+        tools:layout="@layout/fragment_button_lists">
 
         <action
             android:id="@+id/action_FirstFragment_to_SecondFragment"
